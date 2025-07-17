@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+PyJWT
+Flask-Bcrypt
+psycopg2-binary
+flasgger
+pytest
