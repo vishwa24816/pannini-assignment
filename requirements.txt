@@ -6,3 +6,5 @@ Flask-Bcrypt
 psycopg2-binary
 flasgger
 pytest
+
+
